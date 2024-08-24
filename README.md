@@ -1,5 +1,9 @@
-# AutoPriceAdjust
+# AutoPriceAdjust: Supermarket Together Mod
+Tired of setting prices? Look no further.
+
 A simple mod for Supermarket Together that automatically adjusts product prices when you start the day — includes adjustments for inflation.
+
+## How To
 
 You must have BepInEx already installed to run this mod.
 
