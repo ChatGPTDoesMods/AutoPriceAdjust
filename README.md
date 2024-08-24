@@ -3,7 +3,7 @@ Tired of setting prices? Look no further.
 
 A simple mod for Supermarket Together that automatically adjusts product prices when you start the day — includes adjustments for inflation.
 
-⚠ Only one player with this mod is required for this mod to function. ⚠
+⚠ Only one player with this mod installed is required for this mod to function. ⚠
 
 ## How To
 
