@@ -3,6 +3,8 @@ Tired of setting prices? Look no further.
 
 ⚠ Only one player with this mod installed is required for this mod to function. ⚠
 
+[Latest Release](https://github.com/ChatGPTDoesMods/AutoPriceAdjust/releases)
+
 ## Logic
 
 At the beginning of each day (hit the green button) this mod will automatically adjust all prices of products to be exactly double the market price.
