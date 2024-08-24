@@ -7,13 +7,9 @@ Tired of setting prices? Look no further.
 
 ## Logic
 
-At the beginning of each day the person with the mod needs to press the Green Button to start the day. 
-
-⚠You do not need to be the host of the lobby, as long as you are the one to press the Green Button to start the day.⚠
+This mod fires price updates twice. Once when you initially spawn into the game. Then every day at the start of a new day.
 
 The logic includes lookups against the inflation index per product category to ensure optimal prices are being set.
-
-https://github.com/ChatGPTDoesMods/AutoPriceAdjust/blob/main/src/Patches/AdjustInflation.cs
 
 ## How To
 
