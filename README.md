@@ -3,7 +3,7 @@ Tired of setting prices? Look no further.
 
 ⚠ Only one player with this mod installed is required for this mod to function. ⚠
 
-[Latest Release](https://github.com/ChatGPTDoesMods/AutoPriceAdjust/releases)
+[Download Latest Release](https://github.com/ChatGPTDoesMods/AutoPriceAdjust/releases)
 
 ## Logic
 
