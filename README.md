@@ -10,7 +10,8 @@ Find instructions on which version and how to install there.
 Link to download: https://github.com/BepInEx/BepInEx/releases
 
 Once BepInEx is downloaded and in the correct location, unzip AutoPriceAdjust into the BepInEx>Plugins folder.
-![Correct location for this unzipped file](https://github.com/user-attachments/assets/2cba2ceb-181a-46ce-8d32-0c29145fab40)
+![Correct Location for AutoPriceAdjust within files](https://github.com/user-attachments/assets/87f1adb3-d99c-4fc8-b520-ddb1b9e22ef5)
+
 
 In Game:
 
