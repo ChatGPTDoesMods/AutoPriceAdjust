@@ -18,10 +18,10 @@ Link to download: https://github.com/BepInEx/BepInEx/releases
 Once BepInEx is downloaded and in the correct location, unzip AutoPriceAdjust into the BepInEx>Plugins folder.
 ![Correct Location for AutoPriceAdjust within files](https://github.com/user-attachments/assets/87f1adb3-d99c-4fc8-b520-ddb1b9e22ef5)
 
+## Logic
 
-In Game:
+At the beginning of each day (hit the green button) this mod will automatically adjust all prices of products to be exactly double the market price.
 
-AutoPriceAdjust is activated by using the green Start Day Button in the office. 
-At the beginning of each day it will adjust all prices of products to be 2x the cost (auto adjusting for inflation as the game progresses).
+The logic includes lookups against the inflation index per product category to ensure optimal prices are being set.
 
-
+See: https://github.com/ChatGPTDoesMods/AutoPriceAdjust/blob/main/src/Patches/AdjustInflation.cs
