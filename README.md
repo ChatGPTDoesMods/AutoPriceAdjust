@@ -15,7 +15,9 @@ https://github.com/ChatGPTDoesMods/AutoPriceAdjust/blob/main/src/Patches/AdjustI
 
 ## How To
 
-You must have BepInEx already installed to run this mod. Visit the [Installating BepInEx Guide](https://docs.bepinex.dev/articles/user_guide/installation/index.html) if you don't already have BepInEx installed.
+You must have BepInEx already installed to run this mod.
+
+Visit the [Installating BepInEx Guide](https://docs.bepinex.dev/articles/user_guide/installation/index.html) if you don't already have BepInEx installed.
 
 Ensure BepInEx is downloaded and in the correct location within the Supermarket Together directory.
 ![Correct Location for AutoPriceAdjust within files](https://github.com/user-attachments/assets/87f1adb3-d99c-4fc8-b520-ddb1b9e22ef5)
