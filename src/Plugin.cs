@@ -4,7 +4,7 @@ using HarmonyLib;
 
 namespace AutoPriceAdjust;
 
-[BepInPlugin("AutoPriceAdjust", "Auto Price Adjust", "1.0.0")]
+[BepInPlugin("AutoPriceAdjust", "Auto Price Adjust", "1.0.1")]
 public class Plugin : BaseUnityPlugin
 {
     internal static new ManualLogSource Logger;
