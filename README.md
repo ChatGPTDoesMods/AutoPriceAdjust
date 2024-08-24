@@ -7,7 +7,9 @@ Tired of setting prices? Look no further.
 
 ## Logic
 
-At the beginning of each day (hit the green button) this mod will automatically adjust all prices of products to be exactly double the market price.
+At the beginning of each day the person with the mod needs to press the Green Button to start the day. 
+
+⚠You do not need to be the host of the lobby, as long as you are the one to press the Green Button to start the day.⚠
 
 The logic includes lookups against the inflation index per product category to ensure optimal prices are being set.
 
