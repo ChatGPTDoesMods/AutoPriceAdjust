@@ -32,7 +32,7 @@ namespace AutoPriceAdjust.Patches
                 float calculatedPrice = basePrices[i] * inflationMultiplier[productToUpdate.productTier] * priceMultiplier;
                 float newPrice = Mathf.Floor((calculatedPrice - 0.02f) * 100) / 100;
                 productListing.CmdUpdateProductPrice(i, newPrice);
-                UnityEngine.Debug.Log($"AttemptingUpdatePrice::AdjustPriceDaily[{products[i].name}] Base = {basePrices[i]} Inflation = {inflationMultiplier[productToUpdate.productTier]} Multiplier = {priceMultiplier} NewPrice = {newPrice}");
+                // UnityEngine.Debug.Log($"AttemptingUpdatePrice::AdjustPriceDaily[{products[i].name}] Base = {basePrices[i]} Inflation = {inflationMultiplier[productToUpdate.productTier]} Multiplier = {priceMultiplier} NewPrice = {newPrice}");
             }
 
             return;
