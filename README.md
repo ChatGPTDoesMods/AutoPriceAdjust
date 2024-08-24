@@ -28,6 +28,4 @@ Download & unzip AutoPriceAdjust into the `steamapps\common\Supermarket Together
 
 Final path should look something like `steamapps\common\Supermarket Together\BepInEx\plugins\AutoPriceAdjust`
 
-Link to latest AutoPriceAdjust release: https://github.com/ChatGPTDoesMods/AutoPriceAdjust/releases
-
-
+[Download Latest Release](https://github.com/ChatGPTDoesMods/AutoPriceAdjust/releases)
