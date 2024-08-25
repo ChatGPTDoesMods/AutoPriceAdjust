@@ -1,7 +1,9 @@
 # AutoPriceAdjust: Supermarket Together Mod
 Tired of setting prices? Look no further.
 
-⚠ Only one player with this mod installed is required for this mod to function. ⚠
+⚠ Running this mod as a host is required for this mod to function. ⚠
+
+⚠ It will update the price for any store you initially join. ⚠
 
 [Download Latest Release](https://github.com/ChatGPTDoesMods/AutoPriceAdjust/releases)
 
