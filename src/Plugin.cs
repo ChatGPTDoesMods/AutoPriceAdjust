@@ -5,7 +5,7 @@ using UnityEngine;
 
 namespace AutoPriceAdjust;
 
-[BepInPlugin("AutoPriceAdjust", "Auto Price Adjust", "1.1.1")]
+[BepInPlugin("AutoPriceAdjust", "Auto Price Adjust", "1.1.2")]
 public class Plugin : BaseUnityPlugin
 {
     internal static new ManualLogSource Logger;
