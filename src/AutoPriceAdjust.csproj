@@ -24,13 +24,13 @@
 
 	<ItemGroup>
 		<Reference Include="Assembly-CSharp">
-			<HintPath>..\..\..\Supermarket Together_Data\Managed\Assembly-CSharp.dll</HintPath>
+			<HintPath>C:\Program Files (x86)\Steam\steamapps\common\Supermarket Together\Supermarket Together_Data\Managed\Assembly-CSharp.dll</HintPath>
 		</Reference>
 		<Reference Include="Mirror">
-			<HintPath>..\..\..\Supermarket Together_Data\Managed\Mirror.dll</HintPath>
+			<HintPath>C:\Program Files (x86)\Steam\steamapps\common\Supermarket Together\Supermarket Together_Data\Managed\Mirror.dll</HintPath>
 		</Reference>
 		<Reference Include="0Harmony">
-			<HintPath>..\..\..\BepInEx\core\0Harmony.dll</HintPath>
+			<HintPath>C:\Program Files (x86)\Steam\steamapps\common\Supermarket Together\BepInEx\core\0Harmony.dll</HintPath>
 		</Reference>
 	</ItemGroup>
   
