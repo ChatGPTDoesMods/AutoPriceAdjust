@@ -4,7 +4,7 @@
     <TargetFramework>netstandard2.1</TargetFramework>
     <AssemblyName>AutoPriceAdjust</AssemblyName>
     <Product>A simple mod for Supermarket Together that automatically adjusts product prices every morning when you start the day — includes adjustments for inflation.</Product>
-    <Version>1.0.0</Version>
+    <Version>1.1.0</Version>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <LangVersion>latest</LangVersion>
     <RestoreAdditionalProjectSources>
@@ -14,27 +14,28 @@
     </RestoreAdditionalProjectSources>
     <RootNamespace>AutoPriceAdjust</RootNamespace>
   </PropertyGroup>
-
+	
   <ItemGroup>
     <PackageReference Include="BepInEx.Analyzers" Version="1.*" PrivateAssets="all" />
     <PackageReference Include="BepInEx.Core" Version="5.*" />
     <PackageReference Include="BepInEx.PluginInfoProps" Version="2.*" />
     <PackageReference Include="UnityEngine.Modules" Version="2023.1.9" IncludeAssets="compile" />
   </ItemGroup>
-
-	<ItemGroup>
-		<Reference Include="Assembly-CSharp">
-			<HintPath>C:\Program Files (x86)\Steam\steamapps\common\Supermarket Together\Supermarket Together_Data\Managed\Assembly-CSharp.dll</HintPath>
-		</Reference>
-		<Reference Include="Mirror">
-			<HintPath>C:\Program Files (x86)\Steam\steamapps\common\Supermarket Together\Supermarket Together_Data\Managed\Mirror.dll</HintPath>
-		</Reference>
-		<Reference Include="0Harmony">
-			<HintPath>C:\Program Files (x86)\Steam\steamapps\common\Supermarket Together\BepInEx\core\0Harmony.dll</HintPath>
-		</Reference>
-	</ItemGroup>
+	
+  <ItemGroup>
+    <Reference Include="Assembly-CSharp">
+      <HintPath>C:\Program Files (x86)\Steam\steamapps\common\Supermarket Together\Supermarket Together_Data\Managed\Assembly-CSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Mirror">
+      <HintPath>C:\Program Files (x86)\Steam\steamapps\common\Supermarket Together\Supermarket Together_Data\Managed\Mirror.dll</HintPath>
+    </Reference>
+    <Reference Include="0Harmony">
+      <HintPath>C:\Program Files (x86)\Steam\steamapps\common\Supermarket Together\BepInEx\core\0Harmony.dll</HintPath>
+    </Reference>
+  </ItemGroup>
   
   <ItemGroup Condition="'$(TargetFramework.TrimEnd(`0123456789`))' == 'net'">
     <PackageReference Include="Microsoft.NETFramework.ReferenceAssemblies" Version="1.0.2" PrivateAssets="all" />
   </ItemGroup>
+
 </Project>
