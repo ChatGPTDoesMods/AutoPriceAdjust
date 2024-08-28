@@ -4,7 +4,7 @@
     <TargetFramework>netstandard2.1</TargetFramework>
     <AssemblyName>AutoPriceAdjust</AssemblyName>
     <Product>A simple mod for Supermarket Together that automatically adjusts product prices every morning when you start the day — includes adjustments for inflation.</Product>
-    <Version>1.1.0</Version>
+    <Version>1.1.1</Version>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <LangVersion>latest</LangVersion>
     <RestoreAdditionalProjectSources>
